@@ -1,0 +1,20 @@
+[
+  {
+    "output": "public/assets/stadium/plaza-baked-candidate.glb",
+    "bytes": 538876,
+    "instances": 2436,
+    "meshes": 20,
+    "textures": 2,
+    "mobile": false,
+    "movingCarsBaked": false
+  },
+  {
+    "output": "public/assets/stadium/plaza-baked-candidate-mobile.glb",
+    "bytes": 4487304,
+    "instances": 1636,
+    "meshes": 20,
+    "textures": 2,
+    "mobile": true,
+    "movingCarsBaked": false
+  }
+]

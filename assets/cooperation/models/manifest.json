@@ -1,0 +1,70 @@
+{
+  "aircraft": {
+    "source": "reference/aircraft airforce.glb",
+    "sourceBytes": 1860740,
+    "sha256": "a33e5972fe1ec96425b83cfc585ca81fe652bc34a6bbbd3fc9fe3a41ece4aa65",
+    "web": {
+      "url": "/assets/cooperation/models/web/aircraft.glb",
+      "bytes": 695232,
+      "triangles": 32147,
+      "textureSize": 2048
+    },
+    "lod": {
+      "url": "/assets/cooperation/models/lod/aircraft.glb",
+      "bytes": 413144,
+      "triangles": 15417,
+      "textureSize": 512
+    }
+  },
+  "suv": {
+    "source": "police-security SUV.glb",
+    "sourceBytes": 44810516,
+    "sha256": "07a0904c1bbca3781c4465baa6542dd71e716ad271ec1ad036de198d525d13be",
+    "web": {
+      "url": "/assets/cooperation/models/web/suv.glb",
+      "bytes": 2226772,
+      "triangles": 99970,
+      "textureSize": 2048
+    },
+    "lod": {
+      "url": "/assets/cooperation/models/lod/suv.glb",
+      "bytes": 240496,
+      "triangles": 11208,
+      "textureSize": 512
+    }
+  },
+  "officer": {
+    "source": "One representative officer.glb",
+    "sourceBytes": 39215020,
+    "sha256": "93bad888ff286afed0632068f0845c56071a3081c958e63925f78a635f7094c5",
+    "web": {
+      "url": "/assets/cooperation/models/web/officer.glb",
+      "bytes": 2309820,
+      "triangles": 84994,
+      "textureSize": 2048
+    },
+    "lod": {
+      "url": "/assets/cooperation/models/lod/officer.glb",
+      "bytes": 137944,
+      "triangles": 3584,
+      "textureSize": 512
+    }
+  },
+  "drone": {
+    "source": "reference/drone.glb",
+    "sourceBytes": 38558996,
+    "sha256": "e42303797464c0455857f99ff0229575c1be518d329cfca467ddb77f4acf613a",
+    "web": {
+      "url": "/assets/cooperation/models/web/drone.glb",
+      "bytes": 1627496,
+      "triangles": 74974,
+      "textureSize": 2048
+    },
+    "lod": {
+      "url": "/assets/cooperation/models/lod/drone.glb",
+      "bytes": 228132,
+      "triangles": 11432,
+      "textureSize": 512
+    }
+  }
+}

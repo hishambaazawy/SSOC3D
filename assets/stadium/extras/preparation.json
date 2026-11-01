@@ -1,0 +1,569 @@
+[
+  {
+    "source": "arab person extra 1.glb",
+    "output": "gcc-1.glb",
+    "originalBytes": 20306300,
+    "deliveryBytes": 115312,
+    "bounds": [
+      [
+        -0.3123677372932434,
+        -0.3162384033203125,
+        -0.9521073698997498
+      ],
+      [
+        0.3122089207172394,
+        0.32826176285743713,
+        0.9472182989120483
+      ]
+    ],
+    "sourceTriangles": 504147,
+    "triangles": 1399,
+    "animated": false
+  },
+  {
+    "source": "arab person extra 2.glb",
+    "output": "gcc-2.glb",
+    "originalBytes": 25971728,
+    "deliveryBytes": 114332,
+    "bounds": [
+      [
+        -0.31704479455947876,
+        -0.22284595668315887,
+        -0.9421340227127075
+      ],
+      [
+        0.29768261313438416,
+        0.23326760530471802,
+        0.9444884061813354
+      ]
+    ],
+    "sourceTriangles": 683836,
+    "triangles": 1399,
+    "animated": false
+  },
+  {
+    "source": "arab person extra 3.glb",
+    "output": "gcc-3.glb",
+    "originalBytes": 26566472,
+    "deliveryBytes": 119460,
+    "bounds": [
+      [
+        -0.31411680579185486,
+        -0.23725345730781555,
+        -0.9476841688156128
+      ],
+      [
+        0.30312564969062805,
+        0.23288054764270782,
+        0.9574280381202698
+      ]
+    ],
+    "sourceTriangles": 706356,
+    "triangles": 1399,
+    "animated": false
+  },
+  {
+    "source": "arab woman extra 1.glb",
+    "output": "gcc-woman-1.glb",
+    "originalBytes": 17995852,
+    "deliveryBytes": 58316,
+    "bounds": [
+      [
+        -0.26217344403266907,
+        -0.2293798327445984,
+        -0.9478640556335449
+      ],
+      [
+        0.25230008363723755,
+        0.2394876480102539,
+        0.9489241242408752
+      ]
+    ],
+    "sourceTriangles": 470632,
+    "triangles": 1400,
+    "animated": false
+  },
+  {
+    "source": "arab woman extra 2.glb",
+    "output": "gcc-woman-2.glb",
+    "originalBytes": 25642920,
+    "deliveryBytes": 70008,
+    "bounds": [
+      [
+        -0.3417549431324005,
+        -0.24160464107990265,
+        -0.9490582346916199
+      ],
+      [
+        0.3449273705482483,
+        0.24885515868663788,
+        0.9514111876487732
+      ]
+    ],
+    "sourceTriangles": 715792,
+    "triangles": 1399,
+    "animated": false
+  },
+  {
+    "source": "arab woman extra 3.glb",
+    "output": "gcc-woman-3.glb",
+    "originalBytes": 23509912,
+    "deliveryBytes": 66992,
+    "bounds": [
+      [
+        -0.41200482845306396,
+        -0.255422443151474,
+        -0.9471578598022461
+      ],
+      [
+        0.40794533491134644,
+        0.2628350257873535,
+        0.948041558265686
+      ]
+    ],
+    "sourceTriangles": 632262,
+    "triangles": 1400,
+    "animated": false
+  },
+  {
+    "source": "person extra 2.glb",
+    "output": "extra-man-2.glb",
+    "originalBytes": 43781384,
+    "deliveryBytes": 116396,
+    "bounds": [
+      [
+        -0.31853264570236206,
+        -0.48941853642463684,
+        -0.9515895247459412
+      ],
+      [
+        0.31342601776123047,
+        0.4843341112136841,
+        0.9488656520843506
+      ]
+    ],
+    "sourceTriangles": 674218,
+    "triangles": 1398,
+    "animated": false
+  },
+  {
+    "source": "person extra 3.glb",
+    "output": "extra-man-3.glb",
+    "originalBytes": 28627824,
+    "deliveryBytes": 131556,
+    "bounds": [
+      [
+        -0.3728286027908325,
+        -0.4503820836544037,
+        -0.9462185502052307
+      ],
+      [
+        0.37876197695732117,
+        0.45686933398246765,
+        0.9466516971588135
+      ]
+    ],
+    "sourceTriangles": 703968,
+    "triangles": 1399,
+    "animated": false
+  },
+  {
+    "source": "woman extra 1.glb",
+    "output": "extra-woman-1.glb",
+    "originalBytes": 61196180,
+    "deliveryBytes": 107580,
+    "bounds": [
+      [
+        -0.3039647936820984,
+        -0.18428568542003632,
+        -0.8968308568000793
+      ],
+      [
+        0.3019361197948456,
+        0.22300828993320465,
+        0.9723535776138306
+      ]
+    ],
+    "sourceTriangles": 1295189,
+    "triangles": 1595,
+    "animated": false
+  },
+  {
+    "source": "woman extra 2.glb",
+    "output": "extra-woman-2.glb",
+    "originalBytes": 44512784,
+    "deliveryBytes": 115768,
+    "bounds": [
+      [
+        -0.29646700620651245,
+        -0.4702922999858856,
+        -0.9399201273918152
+      ],
+      [
+        0.3065750002861023,
+        0.4529587924480438,
+        0.922221839427948
+      ]
+    ],
+    "sourceTriangles": 1275067,
+    "triangles": 1576,
+    "animated": false
+  },
+  {
+    "source": "woman extra 4.glb",
+    "output": "extra-woman-4.glb",
+    "originalBytes": 18045216,
+    "deliveryBytes": 95628,
+    "bounds": [
+      [
+        -0.28132331371307373,
+        -0.4105951488018036,
+        -0.9517945051193237
+      ],
+      [
+        0.2730441391468048,
+        0.42311617732048035,
+        0.950616180896759
+      ]
+    ],
+    "sourceTriangles": 416786,
+    "triangles": 1399,
+    "animated": false
+  },
+  {
+    "source": "young girl play.glb",
+    "output": "girl.glb",
+    "originalBytes": 17810808,
+    "deliveryBytes": 139200,
+    "bounds": [
+      [
+        -0.4970313608646393,
+        -0.42978471517562866,
+        -0.9491437673568726
+      ],
+      [
+        0.4783530533313751,
+        0.4350528419017792,
+        0.9484587907791138
+      ]
+    ],
+    "sourceTriangles": 334364,
+    "triangles": 1400,
+    "animated": false
+  },
+  {
+    "source": "arabic person being inspected.glb",
+    "output": "inspection.glb",
+    "originalBytes": 34098100,
+    "deliveryBytes": 3193568,
+    "bounds": [
+      [
+        -0.7011489272117615,
+        -0.2501264810562134,
+        -0.9525423645973206
+      ],
+      [
+        0.6984016299247742,
+        0.2577047646045685,
+        0.951252818107605
+      ]
+    ],
+    "sourceTriangles": 921510,
+    "triangles": 25990,
+    "animated": false
+  },
+  {
+    "source": "Walk-Through Metal Detector.glb",
+    "output": "detector.glb",
+    "originalBytes": 7967172,
+    "deliveryBytes": 2493032,
+    "bounds": [
+      [
+        -0.459158718585968,
+        -0.3162073791027069,
+        -0.9506469964981079
+      ],
+      [
+        0.4582175612449646,
+        0.31719887256622314,
+        0.9496880173683167
+      ]
+    ],
+    "sourceTriangles": 70786,
+    "triangles": 14000,
+    "animated": false
+  },
+  {
+    "source": "arab person extra 1.glb",
+    "output": "gcc-1-near.glb",
+    "originalBytes": 20306300,
+    "deliveryBytes": 373268,
+    "bounds": [
+      [
+        -0.3103977143764496,
+        -0.3159043490886688,
+        -0.9515964984893799
+      ],
+      [
+        0.31059834361076355,
+        0.3283407688140869,
+        0.9508301019668579
+      ]
+    ],
+    "sourceTriangles": 504147,
+    "triangles": 15999,
+    "animated": false
+  },
+  {
+    "source": "arab person extra 2.glb",
+    "output": "gcc-2-near.glb",
+    "originalBytes": 25971728,
+    "deliveryBytes": 414524,
+    "bounds": [
+      [
+        -0.30439576506614685,
+        -0.23054473102092743,
+        -0.9508467316627502
+      ],
+      [
+        0.3011375069618225,
+        0.23430375754833221,
+        0.9502877593040466
+      ]
+    ],
+    "sourceTriangles": 683836,
+    "triangles": 15999,
+    "animated": false
+  },
+  {
+    "source": "arab person extra 3.glb",
+    "output": "gcc-3-near.glb",
+    "originalBytes": 26566472,
+    "deliveryBytes": 407892,
+    "bounds": [
+      [
+        -0.32187309861183167,
+        -0.23734994232654572,
+        -0.9506834745407104
+      ],
+      [
+        0.315486341714859,
+        0.23700927197933197,
+        0.9498476386070251
+      ]
+    ],
+    "sourceTriangles": 706356,
+    "triangles": 15999,
+    "animated": false
+  },
+  {
+    "source": "arab woman extra 1.glb",
+    "output": "gcc-woman-1-near.glb",
+    "originalBytes": 17995852,
+    "deliveryBytes": 282280,
+    "bounds": [
+      [
+        -0.25970712304115295,
+        -0.2257176786661148,
+        -0.9502481818199158
+      ],
+      [
+        0.2536907494068146,
+        0.23885835707187653,
+        0.9493533372879028
+      ]
+    ],
+    "sourceTriangles": 470632,
+    "triangles": 16000,
+    "animated": false
+  },
+  {
+    "source": "arab woman extra 2.glb",
+    "output": "gcc-woman-2-near.glb",
+    "originalBytes": 25642920,
+    "deliveryBytes": 334204,
+    "bounds": [
+      [
+        -0.3480875492095947,
+        -0.24602998793125153,
+        -0.9504779577255249
+      ],
+      [
+        0.3517470359802246,
+        0.2454097867012024,
+        0.9511907696723938
+      ]
+    ],
+    "sourceTriangles": 715792,
+    "triangles": 15999,
+    "animated": false
+  },
+  {
+    "source": "arab woman extra 3.glb",
+    "output": "gcc-woman-3-near.glb",
+    "originalBytes": 23509912,
+    "deliveryBytes": 383000,
+    "bounds": [
+      [
+        -0.41370677947998047,
+        -0.25447848439216614,
+        -0.9499562382698059
+      ],
+      [
+        0.4097279906272888,
+        0.2641039192676544,
+        0.9500987529754639
+      ]
+    ],
+    "sourceTriangles": 632262,
+    "triangles": 15998,
+    "animated": false
+  },
+  {
+    "source": "person extra 2.glb",
+    "output": "extra-man-2-near.glb",
+    "originalBytes": 43781384,
+    "deliveryBytes": 526948,
+    "bounds": [
+      [
+        -0.3209810256958008,
+        -0.4885716438293457,
+        -0.9514567852020264
+      ],
+      [
+        0.3188890516757965,
+        0.4875894784927368,
+        0.9508305191993713
+      ]
+    ],
+    "sourceTriangles": 674218,
+    "triangles": 16000,
+    "animated": false
+  },
+  {
+    "source": "person extra 3.glb",
+    "output": "extra-man-3-near.glb",
+    "originalBytes": 28627824,
+    "deliveryBytes": 623824,
+    "bounds": [
+      [
+        -0.37190842628479004,
+        -0.4553471803665161,
+        -0.9503010511398315
+      ],
+      [
+        0.3748907148838043,
+        0.4578103721141815,
+        0.9500160813331604
+      ]
+    ],
+    "sourceTriangles": 703968,
+    "triangles": 15999,
+    "animated": false
+  },
+  {
+    "source": "woman extra 1.glb",
+    "output": "extra-woman-1-near.glb",
+    "originalBytes": 61196180,
+    "deliveryBytes": 531328,
+    "bounds": [
+      [
+        -0.3050997257232666,
+        -0.25586438179016113,
+        -0.9514490962028503
+      ],
+      [
+        0.30346906185150146,
+        0.25238707661628723,
+        0.950316309928894
+      ]
+    ],
+    "sourceTriangles": 1295189,
+    "triangles": 15999,
+    "animated": false
+  },
+  {
+    "source": "woman extra 2.glb",
+    "output": "extra-woman-2-near.glb",
+    "originalBytes": 44512784,
+    "deliveryBytes": 585324,
+    "bounds": [
+      [
+        -0.30364349484443665,
+        -0.5042484402656555,
+        -0.9516705274581909
+      ],
+      [
+        0.29850807785987854,
+        0.4997929036617279,
+        0.9507927298545837
+      ]
+    ],
+    "sourceTriangles": 1275067,
+    "triangles": 15996,
+    "animated": false
+  },
+  {
+    "source": "woman extra 4.glb",
+    "output": "extra-woman-4-near.glb",
+    "originalBytes": 18045216,
+    "deliveryBytes": 443192,
+    "bounds": [
+      [
+        -0.28160837292671204,
+        -0.41179338097572327,
+        -0.9499348402023315
+      ],
+      [
+        0.2780379056930542,
+        0.4183257520198822,
+        0.9501179456710815
+      ]
+    ],
+    "sourceTriangles": 416786,
+    "triangles": 15999,
+    "animated": false
+  },
+  {
+    "source": "young girl play.glb",
+    "output": "girl-near.glb",
+    "originalBytes": 17810808,
+    "deliveryBytes": 624644,
+    "bounds": [
+      [
+        -0.49358218908309937,
+        -0.4373001456260681,
+        -0.9510192275047302
+      ],
+      [
+        0.47486934065818787,
+        0.43690434098243713,
+        0.9498815536499023
+      ]
+    ],
+    "sourceTriangles": 334364,
+    "triangles": 16000,
+    "animated": false
+  },
+  {
+    "source": "security agent.glb",
+    "output": "security.glb",
+    "originalBytes": 23398244,
+    "deliveryBytes": 3825520,
+    "bounds": [
+      [
+        -0.31909599900245667,
+        -0.1842299997806549,
+        -0.9523429870605469
+      ],
+      [
+        0.31916698813438416,
+        0.18459799885749817,
+        0.9505379796028137
+      ]
+    ],
+    "sourceTriangles": 592723,
+    "triangles": 592723,
+    "animated": false
+  }
+]

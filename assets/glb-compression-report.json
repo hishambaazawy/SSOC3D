@@ -1,0 +1,223 @@
+[
+  {
+    "path": "public/assets/stadium/plaza-baked-candidate.glb",
+    "originalBytes": 4521816,
+    "optimizedBytes": 538876,
+    "reductionPercent": 88.1,
+    "changes": [
+      {
+        "image": 0,
+        "role": "baseColorTexture",
+        "originalBytes": 4302104,
+        "optimizedBytes": 429486,
+        "quality": 78,
+        "meanAbsoluteChannelError": 3.135
+      }
+    ],
+    "geometryInputBytes": 649272,
+    "geometryOutputSHA256": "a5ec4dc39b1b4d1de2a96e424f4fec64725a80a2c0a5218ed95328eefd5c2f44",
+    "outputSHA256": "a5ec4dc39b1b4d1de2a96e424f4fec64725a80a2c0a5218ed95328eefd5c2f44",
+    "geometryCompression": "lossless Meshopt"
+  },
+  {
+    "path": "public/assets/stadium/extras/security.glb",
+    "originalBytes": 3825520,
+    "optimizedBytes": 1986884,
+    "reductionPercent": 48.1,
+    "changes": [
+      {
+        "image": 0,
+        "role": "normalTexture",
+        "originalBytes": 732689,
+        "optimizedBytes": 208080,
+        "quality": 88,
+        "meanAbsoluteChannelError": 0.733
+      },
+      {
+        "image": 1,
+        "role": "baseColorTexture",
+        "originalBytes": 1027687,
+        "optimizedBytes": 235048,
+        "quality": 72,
+        "meanAbsoluteChannelError": 1.708
+      },
+      {
+        "image": 2,
+        "role": "metallicRoughnessTexture",
+        "originalBytes": 598659,
+        "optimizedBytes": 77132,
+        "quality": 72,
+        "meanAbsoluteChannelError": 0.737
+      }
+    ],
+    "outputSHA256": "2cfc168d4df6605507e2da6dec0f0a4020a243dd41d9fb232fe263f9f73ef023"
+  },
+  {
+    "path": "public/assets/stadium/extras/inspection.glb",
+    "originalBytes": 3193568,
+    "optimizedBytes": 1062028,
+    "reductionPercent": 66.7,
+    "changes": [
+      {
+        "image": 0,
+        "role": "normalTexture",
+        "originalBytes": 1074615,
+        "optimizedBytes": 397284,
+        "quality": 88,
+        "meanAbsoluteChannelError": 0.921
+      },
+      {
+        "image": 1,
+        "role": "baseColorTexture",
+        "originalBytes": 1408676,
+        "optimizedBytes": 391028,
+        "quality": 72,
+        "meanAbsoluteChannelError": 1.92
+      },
+      {
+        "image": 2,
+        "role": "metallicRoughnessTexture",
+        "originalBytes": 491396,
+        "optimizedBytes": 54692,
+        "quality": 72,
+        "meanAbsoluteChannelError": 0.637
+      }
+    ],
+    "outputSHA256": "2feb87b6f468628dc7a2c4651668885edb5888a7f3c1108665d8d4be58f4292d"
+  },
+  {
+    "path": "public/assets/stadium/extras/detector.glb",
+    "originalBytes": 2493032,
+    "optimizedBytes": 599208,
+    "reductionPercent": 76,
+    "changes": [
+      {
+        "image": 0,
+        "role": "normalTexture",
+        "originalBytes": 707032,
+        "optimizedBytes": 192738,
+        "quality": 88,
+        "meanAbsoluteChannelError": 0.707
+      },
+      {
+        "image": 1,
+        "role": "baseColorTexture",
+        "originalBytes": 768338,
+        "optimizedBytes": 161318,
+        "quality": 72,
+        "meanAbsoluteChannelError": 1.34
+      },
+      {
+        "image": 2,
+        "role": "metallicRoughnessTexture",
+        "originalBytes": 910556,
+        "optimizedBytes": 137900,
+        "quality": 72,
+        "meanAbsoluteChannelError": 1.217
+      }
+    ],
+    "outputSHA256": "98e021dbbe573c7996176a0458e625c3eca20aa008a1a0fad459bdb5d7b429d4"
+  },
+  {
+    "path": "public/assets/cooperation/models/web/officer.glb",
+    "originalBytes": 2309820,
+    "optimizedBytes": 1766268,
+    "reductionPercent": 23.5,
+    "changes": [
+      {
+        "image": 0,
+        "role": "baseColorTexture",
+        "originalBytes": 1076360,
+        "optimizedBytes": 632746,
+        "quality": 72,
+        "meanAbsoluteChannelError": 2.858
+      },
+      {
+        "image": 1,
+        "role": "metallicRoughnessTexture",
+        "originalBytes": 174196,
+        "optimizedBytes": 84442,
+        "quality": 72,
+        "meanAbsoluteChannelError": 0.772
+      },
+      {
+        "image": 2,
+        "role": "normalTexture",
+        "originalBytes": 418560,
+        "optimizedBytes": 408376,
+        "quality": 88,
+        "meanAbsoluteChannelError": 0.646
+      }
+    ],
+    "outputSHA256": "44087ce710e2114fd5dd97c2f92769366599276ee3b21805a96ca13063f7055f"
+  },
+  {
+    "path": "public/assets/cooperation/models/web/suv.glb",
+    "originalBytes": 16679828,
+    "optimizedBytes": 1174048,
+    "reductionPercent": 93,
+    "geometryCompression": "Draco Edgebreaker with selective mesh simplification and WebP textures",
+    "trianglesBefore": 188764,
+    "trianglesAfter": 115190,
+    "outputSHA256": "5e425c90eaacb981d68921f2f2d8fcceaa902d2c3b16341cbcbe893294db5143"
+  },
+  {
+    "path": "public/assets/cooperation/models/lod/officer.glb",
+    "originalBytes": 137944,
+    "optimizedBytes": 133644,
+    "reductionPercent": 3.1,
+    "changes": [
+      {
+        "image": 0,
+        "role": "baseColorTexture",
+        "originalBytes": 56048,
+        "optimizedBytes": 53862,
+        "quality": 72,
+        "meanAbsoluteChannelError": 1.575
+      },
+      {
+        "image": 1,
+        "role": "metallicRoughnessTexture",
+        "originalBytes": 14958,
+        "optimizedBytes": 12842,
+        "quality": 72,
+        "meanAbsoluteChannelError": 0.965
+      }
+    ],
+    "outputSHA256": "1ba768b5d3548e5f5afc0e9a5f7d44a43ea94c365cbc235a3254e042608f605f"
+  },
+  {
+    "path": "public/assets/cooperation/models/lod/suv.glb",
+    "originalBytes": 16679828,
+    "optimizedBytes": 1174048,
+    "reductionPercent": 93,
+    "geometryCompression": "Draco Edgebreaker with selective mesh simplification and WebP textures",
+    "trianglesBefore": 188764,
+    "trianglesAfter": 115190,
+    "outputSHA256": "5e425c90eaacb981d68921f2f2d8fcceaa902d2c3b16341cbcbe893294db5143"
+  },
+  {
+    "path": "public/assets/stadium/lusail-baked-candidate.glb",
+    "originalBytes": 12457140,
+    "optimizedBytes": 2944168,
+    "geometryInputBytes": 12457140,
+    "geometryOutputSHA256": "9e6c929cf8f819e972635a4d888074476573eb3e6d3b57a49183bdb396fde013",
+    "outputSHA256": "9e6c929cf8f819e972635a4d888074476573eb3e6d3b57a49183bdb396fde013",
+    "geometryCompression": "Draco Edgebreaker, 18-bit positions and 14-bit normals; selective mesh simplification",
+    "reductionPercent": 76.4,
+    "trianglesBefore": 764583,
+    "trianglesAfter": 574735
+  },
+  {
+    "path": "public/assets/landmarks/TornadoTower_HERO.glb",
+    "originalBytes": 2255996,
+    "optimizedBytes": 1680192,
+    "geometryInputBytes": 1681452,
+    "geometryOutputSHA256": "0c997d6f068410bf2f3b02d38b54d72757b8e8e024b2fd6489bfca289c94e1e0",
+    "outputSHA256": "0c997d6f068410bf2f3b02d38b54d72757b8e8e024b2fd6489bfca289c94e1e0",
+    "geometryCompression": "Draco Edgebreaker with deduplicated meshes",
+    "trianglesBefore": 55496,
+    "trianglesAfter": 55496,
+    "reductionPercent": 25.5
+  }
+]

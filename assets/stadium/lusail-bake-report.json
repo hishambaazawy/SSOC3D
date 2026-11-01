@@ -1,0 +1,64 @@
+{
+  "input": "public/assets/stadium/lusail.glb",
+  "output": "public/assets/stadium/lusail-baked-candidate.glb",
+  "inputBytes": 5008616,
+  "outputBytes": 2944168,
+  "sourceSHA256": "e7e8672513908b35b76a4a9fef8b671ad2db7b44d4b8b6b5f2daefbc3a56adcd",
+  "source": "/assets/stadium/lusail.glb",
+  "sourceMeshes": 216,
+  "triangles": 764583,
+  "drawBatches": 11,
+  "bounds": [
+    319.66148376464844,
+    65.92706298828125,
+    327.990966796875
+  ],
+  "shellBounds": [
+    291.030029296875,
+    51.89903524034031,
+    291.0070858399465
+  ],
+  "placement": "Cinematic site, not surveyed Lusail coordinates",
+  "exactGeometryRoundtrip": true,
+  "compression": "Draco Edgebreaker, 18-bit positions and 14-bit normals; selective mesh simplification",
+  "materialPolicy": "Runtime uses the shared original material factory, including venue shader hooks.",
+  "uncompressedBytes": 35977436,
+  "encodedTriangles": 574735,
+  "simplification": {
+    "ratio": 0.6,
+    "maxErrorFraction": 0.0001,
+    "meshes": [
+      {
+        "mesh": "Lusail stone",
+        "before": 84571,
+        "after": 64306
+      },
+      {
+        "mesh": "Lusail steel",
+        "before": 90090,
+        "after": 69891
+      },
+      {
+        "mesh": "Lusail roof",
+        "before": 302200,
+        "after": 181310
+      },
+      {
+        "mesh": "Lusail pitchLines",
+        "before": 28680,
+        "after": 17206
+      },
+      {
+        "mesh": "Lusail gold",
+        "before": 214421,
+        "after": 199240
+      },
+      {
+        "mesh": "Lusail rim",
+        "before": 32263,
+        "after": 30444
+      }
+    ],
+    "trianglesRemoved": 189828
+  }
+}
